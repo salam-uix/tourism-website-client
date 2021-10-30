@@ -1,0 +1,42 @@
+.single-popular-1 {
+    background-image: url("https://i.ibb.co/JKFS8Cd/popular-activities-2.jpg");
+    height: 650px;
+    background-size: cover;
+    position: relative;
+}
+.single-popular-2{
+    background-image: url("https://i.ibb.co/nsZW3tR/Woman-standing-on-the-nose-of-the-yacht-at-a-sunny-summer-day.jpg");
+    height: 650px;
+    background-size: cover;
+    position: relative;
+}
+.single-popular-3{
+    background-image: url("https://i.ibb.co/bg3MKfp/popular-activities-3.jpg");
+    height: 650px;
+    background-size: cover;
+    position: relative;
+}
+.single-popular-1-content, .single-popular-2-content, .single-popular-3-content{
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+}
+
+.fifteen{
+    position: absolute;
+    top: 15px;
+}
+.fifteen h4{
+    background-color: white;
+    border-radius: 25px;
+    padding: 6px;
+}
+.d-extra-margin-top{
+    margin-top: 10rem;
+}
+.extra-margin-top{
+    margin-top: 6rem;
+}
