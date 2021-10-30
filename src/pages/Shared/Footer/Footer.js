@@ -13,7 +13,7 @@ const Footer = () => {
                                 <a href="/" class="text-uppercase mb-4"><img src="https://i.ibb.co/8YJKQrB/tdaddy.png" alt=""
                                     class="img-fluid bg-white w-75" /></a>
                             </div>
-                            <p class="footer-p-font">Located in USA since 1983, Todays Eyewear provides outstanding customer
+                            <p class="footer-p-font">Located in USA since 1983, Travel Daddy provides outstanding customer
                                 service, top optometrist care, and a wide variety of stylish frames. We believe that our
                                 customers deserve the top vision care, so that's what we focus on.</p>
                         </div>
@@ -67,9 +67,9 @@ const Footer = () => {
                         <div class="col-12 col-md-4 col-lg-3 col-xl-3 mx-auto mt-3 text-md-start text-lg-start">
                             <h5 class="text-uppercase mb-4 font-weight-bold text-white">Contact</h5>
                             <div class="location">
-                                <p class=" footer-p-font">Todays Eyewear 3200 Red Lion Rd., Philadelphia, PA 19114</p>
+                                <p class=" footer-p-font">Travel Daddy 3200 Red Lion Rd., Philadelphia, PA 19114</p>
                                 <p class=" footer-p-font">+215-632-7378</p>
-                                <p class=" footer-p-font">support@todayseyewear.com</p>
+                                <p class=" footer-p-font">support@tdaddy.com</p>
                             </div>
                             <img src="image/payment/payments.png" alt="" class="img-fluid bg-white w-100" />
                         </div>
@@ -101,14 +101,14 @@ const Footer = () => {
                         {/* Footer bottom privecy section */}
 
                         <div class="col-12 col-md-6 col-lg-6 text-lg-end footer-privecy">
-                            <a class="footer-bottom-font font-hover me-3"
-                                href="index.php?route=information/information&information_id=3"> Privacy</a>
-                            <a class="footer-bottom-font font-hover me-3"
-                                href="index.php?route=information/information&information_id=5"> Terms of Use</a>
-                            <a class="footer-bottom-font font-hover me-3"
-                                href="index.php?route=information/information&information_id=8"> Accessibility</a>
-                            <a class="footer-bottom-font font-hover me-3"
-                                href="index.php?route=information/information&information_id=8"> CA Transparency Act</a>
+                            <a class="footer-bottom-font font-hover text-decoration-none text-white me-3"
+                                href="/"> Privacy</a>
+                            <a class="footer-bottom-font font-hover text-decoration-none text-white me-3"
+                                href="/"> Terms of Use</a>
+                            <a class="footer-bottom-font font-hover text-decoration-none text-white me-3"
+                                href="/"> Accessibility</a>
+                            <a class="footer-bottom-font font-hover text-decoration-none text-white me-3"
+                                href="/"> CA Transparency Act</a>
                         </div>
                     </div>
                 </div>
