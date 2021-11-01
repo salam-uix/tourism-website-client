@@ -1,44 +1,50 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "name": "Romania",
+        "packagename": "AlphaOne",
+        "price": "3300",
+        "duration": "6 Days",
+        "img": "https://i.ibb.co/1v4VSQv/trip01.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "Nayagra water falls",
+        "packagename": "AlphaTwo",
+        "price": "$3000",
+        "duration": "8 Days",
+        "img": "https://i.ibb.co/Q6zSCFX/trip02.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "name": "Turkey",
+        "packagename": "AlphaThree",
+        "price": "$2200",
+        "duration": "8 Days",
+        "img": "https://i.ibb.co/Bcvg1mN/trip03.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "name": "Phuket Thiland",
+        "packagename": "AlphaTwo",
+        "price": "$1100",
+        "duration": "7 Days",
+        "img": "https://i.ibb.co/6WQnyJw/trip04.jpg"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "name": "Indonesia",
+        "packagename": "AlphaFive",
+        "price": "$950",
+        "duration": "8 Days",
+        "img": "https://i.ibb.co/VWkJfDY/trip05.jpgg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "name": "Russia",
+        "packagename": "AlphaSix",
+        "price": "$2500",
+        "duration": "12 Days",
+        "img": "https://i.ibb.co/hmFzbpw/trip06.jpg"
     }
 ]
