@@ -19,8 +19,8 @@ const Service = ({ service }) => {
                         <Card.Text>
                             {description}
                         </Card.Text>
-                        <Link to={`/getcourse/${id}`}>
-                            <button className="btn f-button-color">Book {name.toLowerCase()}</button>
+                        <Link to={`/booking/${id}`}>
+                            <button className="btn btn-warning f-button-color">Book {name.toLowerCase()}</button>
                         </Link>
                     </Card.Body>
                 </Card>
