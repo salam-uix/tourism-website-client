@@ -14,7 +14,7 @@ const Footer = () => {
                                     class="img-fluid bg-white w-75" /></a>
                             </div>
                             <p class="footer-p-font">Located in USA since 1983, Travel Daddy provides outstanding customer
-                                service, top optometrist care, and a wide variety of stylish frames. We believe that our
+                                service. We believe that our
                                 customers deserve the top vision care, so that's what we focus on.</p>
                         </div>
 
@@ -28,16 +28,16 @@ const Footer = () => {
                             </p>
                             <p>
                                 <a class="footer-p-font font-hover text-decoration-none text-white"
-                                    href="/">Our Lenses</a>
+                                    href="/">How to ready for travel</a>
                             </p>
 
                             <p>
                                 <a class="footer-p-font font-hover text-decoration-none text-white"
-                                    href="image/Measure_Your_PD.pdf" target="_blank">Measure Your P.D.</a>
+                                    href="image/Measure_Your_PD.pdf" target="_blank">Health issue</a>
                             </p>
                             <p>
                                 <a class="footer-p-font font-hover text-decoration-none text-white"
-                                    href="/">Lense Packages</a>
+                                    href="/">Our packages</a>
                             </p>
                         </div>
 

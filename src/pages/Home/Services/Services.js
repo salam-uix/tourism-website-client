@@ -16,7 +16,7 @@ const Services = () => {
                     <h1><span>WHO</span> WE ARE</h1>
                 </div>
                 <div className="col-sm-12 col-md-6">
-                    <p>We’re not like other gyms. We won’t tie you into a contract. Or charge you a fortune every month. So make yourself at home and take a look around.</p>
+                    <p>We’re not like other tour agency. We won’t tie you into a contract. Or charge you a fortune every month. So make yourself at home and take a look around.</p>
                 </div>
             </div>
             <h1 className="text-center mt-5 mb-4"><span className="word-color">Our</span> Services</h1>

@@ -27,7 +27,7 @@ const Login = () => {
             </Form>
             <br /><br />
             <span>New user?
-                <Link style={{ borderBottomColor: "#EE4F15" }} className="btn" to="/register">Please Login</Link>
+                <Link style={{ borderBottomColor: "#EE4F15" }} className="btn" to="/register">Please Register</Link>
             </span>
             <br /><br />
             <button onClick={signInUsingGoogle} className="btn btn-warning">Google sign in</button>

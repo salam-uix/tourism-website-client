@@ -5,6 +5,7 @@
         "packagename": "AlphaOne",
         "price": "3300",
         "duration": "6 Days",
+        "description": "Romania is a southeastern European country known for the forested region of Transylvania, ringed by the Carpathian Mountains. Its preserved medieval towns include Sighişoara, and there are many fortified churches and castles, notably clifftop Bran Castle, long associated with the Dracula legend. Bucharest, the country’s capital, is the site of the gigantic, Communist-era Palatul Parlamentului government building.",
         "img": "https://i.ibb.co/1v4VSQv/trip01.jpg"
     },
     {
@@ -13,6 +14,7 @@
         "packagename": "AlphaTwo",
         "price": "$3000",
         "duration": "8 Days",
+        "description": "There are a wide variety of guided tour operators with an in-depth knowledge of Niagara Falls USA for you to choose from — all of whom are happy to assist you in getting around and learning about Niagara Falls, New York, and the surrounding destinations in Niagara County. Choose from boat excursions to tour buses, walking tours and even food tours – each specializing in making your trip to Niagara Falls USA memorable!",
         "img": "https://i.ibb.co/Q6zSCFX/trip02.jpg"
     },
     {
@@ -21,6 +23,7 @@
         "packagename": "AlphaThree",
         "price": "$2200",
         "duration": "8 Days",
+        "description": "Having authored travel guidebooks to Turkey for decades, I believe many travelers can tour the country on their own, but many visitors may find Turkey different enough that they want some help with their touring.",
         "img": "https://i.ibb.co/Bcvg1mN/trip03.jpg"
     },
     {
@@ -29,6 +32,7 @@
         "packagename": "AlphaTwo",
         "price": "$1100",
         "duration": "7 Days",
+        "description": "Welcome to the leading tour agency for Phuket. Phuket Tours Direct offers tours only with the most professional, reliable and experienced tour operators. And that provides you with the best experience possible for your vacation in Phantastic Phuket. On top of that, we guarantee the lowest tour rates! Since we book so many tours, we get excellent deals from the best operators. That means we can offer you the best prices in the business.",
         "img": "https://i.ibb.co/6WQnyJw/trip04.jpg"
     },
     {
@@ -37,6 +41,7 @@
         "packagename": "AlphaFive",
         "price": "$950",
         "duration": "8 Days",
+        "description": "Stray off the beaten track and explore deep into Indonesia as you discover the islands of Java and Bali. With an emphasis on cities of culture and the stunning countryside, this trip begins in Yogyakarta and makes its way east across Java to Surakarta, the imposing Mt Bromo volcano and Surabaya before jumping across to Bali. Eat, pray, love (and eat again) in artsy Ubud before finishing by the beach in Seminyak. Walk past temples, cycle through rice paddies and soak up the laidback vibe that has made these islands a traveller’s favourite.",
         "img": "https://i.ibb.co/VWkJfDY/trip05.jpgg"
     },
     {
@@ -45,6 +50,7 @@
         "packagename": "AlphaSix",
         "price": "$2500",
         "duration": "12 Days",
+        "description": "We offer you a unique opportunity to visit Russia's two largest cities, Moscow and St. Petersburg. This fascinating, week-long tour will take you to the historic Russian capitals that have always played the most important part in the country's history. You will enjoy such landmarks as the Kremlin and Red Square in Moscow, the Winter Palace and the Peter and Paul Fortress in St. Petersburg. Our amazing package includes a panoramic tour of the main highlights of each city to help you get oriented. In Moscow: have a look at the Moscow Kremlin with its beautiful cathedrals that store invaluable treasures including state regalia and ancient icons. The Kremlin's most known temple is the Uspensky Cathedral that features one of the largest collections of Russian icons in the world.",
         "img": "https://i.ibb.co/hmFzbpw/trip06.jpg"
     }
 ]

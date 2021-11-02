@@ -4,7 +4,7 @@ import { Card, Col, Row } from 'react-bootstrap';
 import './Service.css'
 
 const Service = ({ service }) => {
-    const { id, img, name, price, description } = service;
+    const { _id, img, name, price, duration, packagename } = service;
 
     return (
         <div>
@@ -14,12 +14,15 @@ const Service = ({ service }) => {
                     <Card.Body>
                         <Card.Title>{name}</Card.Title>
                         <Card.Text>
-                            <p>Course Price: {price}</p>
+                            <p>Package: {packagename}</p>
                         </Card.Text>
                         <Card.Text>
-                            {description}
+                            <p>Duration: {duration}</p>
                         </Card.Text>
-                        <Link to={`/booking/${id}`}>
+                        <Card.Text>
+                            <p>Value: {price}</p>
+                        </Card.Text>
+                        <Link to={`/booking/${_id}`}>
                             <button className="btn btn-warning f-button-color">Book {name.toLowerCase()}</button>
                         </Link>
                     </Card.Body>
