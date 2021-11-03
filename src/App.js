@@ -12,7 +12,9 @@ import Booking from './pages/Home/Booking/Booking';
 import Login from './pages/Login/Login/Login';
 import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './pages/Login/PrivateRoute/PrivateRoute';
-import Register from './pages/Register/Register';
+import MyOrders from './pages/MyOrders/MyOrders';
+import ManageAllOrders from './pages/ManageAllOrders/ManageAllOrders';
+import AddNewServices from './pages/AddNewServices/AddNewServices';
 
 function App() {
   return (
@@ -30,15 +32,22 @@ function App() {
             <Route path="/services">
               <Services></Services>
             </Route>
+            <Route path="/myOrders">
+              <MyOrders></MyOrders>
+            </Route>
+            <Route path="/manageAllOrders">
+              <ManageAllOrders></ManageAllOrders>
+            </Route>
+            <Route path="/addnewservice">
+              <AddNewServices></AddNewServices>
+            </Route>
+            <PrivateRoute path="/booking/:serviceId">
+              <Booking></Booking>
+            </PrivateRoute>
             <Route path="/login">
               <Login></Login>
             </Route>
-            <Route path="/register">
-              <Register></Register>
-            </Route>
-            <PrivateRoute path="/booking/:id">
-              <Booking></Booking>
-            </PrivateRoute>
+
             <Route path="/gallery">
               <Gallery></Gallery>
             </Route>
