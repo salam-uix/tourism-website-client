@@ -28,9 +28,18 @@ const Booking = () => {
     } = useForm();
 
     const onSubmit = (data) => {
-        console.log(data)
+        data.email = email;
+
+        fetch('http://localhost:5000/confirmOrder', {
+            method: "POST",
+            headers: { "content-type": "application/json" },
+            body: JSON.stringify(data),
+        })
+            .then((res) => res.json())
+            .then((result) => console.log(result));
+        console.log(data);
     }
-    // const ExactIteam = data.filter(td => td._id === id);
+
 
     return (
         <div>
@@ -67,7 +76,6 @@ const Booking = () => {
                             <input
                                 {...register("comments")}
                                 placeholder="comments"
-                                className="p-2 m-2"
                                 className="p-2 m-2 w-100"
                             />
                             <br />
@@ -75,14 +83,12 @@ const Booking = () => {
                             <input
                                 {...register("price", { required: true })}
                                 defaultValue={service?.price}
-                                className="p-2 m-2"
                                 className="p-2 m-2 w-100"
                             />
                             <br />
                             <input
                                 {...register("image", { required: true })}
                                 defaultValue={service?.image}
-                                className="p-2 m-2"
                                 className="p-2 m-2 w-100"
                             />
                             <br />

@@ -26,6 +26,7 @@ const useFirebase = () => {
             .then((result) => {
                 const user = result.user;
                 setUser(user)
+                sessionStorage.setItem("email", result.user.email);
                 setError('');
 
             })
