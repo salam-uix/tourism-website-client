@@ -12,7 +12,7 @@ const Booking = () => {
     const email = sessionStorage.getItem("email");
 
     useEffect(() => {
-        fetch(`http://localhost:5000/services/${serviceId}`)
+        fetch(`https://creepy-warlock-17654.herokuapp.com/singleProduct/${serviceId}`)
             .then((res) => res.json())
             .then((data) => setService(data));
     }, []);
